@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Sanjar - Python Engeneer & Machine Learning enthusiast. 
-Also, I am intersted in Web Development. I love problem solving and can use:
+Also, I am intersted in Web Development. I love problem solving and can use: 
 <img src="https://user-images.githubusercontent.com/90483239/203652798-2f173a86-fdfb-41cb-8d03-fa4f73a2b55b.png" width="70">
 <img src="https://user-images.githubusercontent.com/90483239/203650303-06126ff1-b1f3-4778-b896-8f97d1de989f.jpg" width="50">
 <img src="https://user-images.githubusercontent.com/90483239/203651562-9e7cf508-897d-4915-8c99-144bd01b86cd.jpg" width="60">
