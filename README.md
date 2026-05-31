@@ -15,7 +15,7 @@ Also, I am interested in Web Development. I love problem-solving and use:
 <img src="https://user-images.githubusercontent.com/90483239/203655155-7606210b-fa38-4b32-bad5-48111e7a49da.png" width="30">
 
 - 🔭 I’m currently working on an educational platform(codeyourpath.eu).
-- 🌱 I’m currently learning DA.
+- 🌱 I’m currently learning AI.
 - 👯 I’m looking for mentors/volunteers in my NGO(codeyourpath.eu)
 - 💬 Ask me about anything:)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjar-hoshimi-7a3467166/) 
